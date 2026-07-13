@@ -91,12 +91,12 @@ The project spans the complete engineering cycle: **mechanical design → electr
 
 > 📌 *Replace each placeholder below with your actual workflow process photos*
 
-| Step | Image | Description |
-|:----:|:-----:|:------------|
-| 1 | *(add image here)* | Mechanical design & 3D modeling in CAD |
-| 2 | *(add image here)* | PCB schematic & wiring layout |
-| 3 | *(add image here)* | Firmware flashing & serial debugging |
-| 4 | *(add image here)* | Assembly, integration & combat testing |
+| Step | Description |
+|:----|:------------|
+| 1 | Mechanical design & 3D modeling in CAD |
+| 2 | PCB schematic & wiring layout |
+| 3 | Firmware flashing & serial debugging |
+| 4 | Assembly, integration & combat testing |
 
 ---
 
